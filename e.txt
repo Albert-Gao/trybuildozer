@@ -25,7 +25,7 @@ later for copying conditions. There is NO warranty.
 # Compile platform
 # Run 'python -m pythonforandroid.toolchain --color=always --storage-dir=/home/albert/work/helloworld/.buildozer/android/platform/build create --dist_name=myapp --bootstrap=sdl2 --requirements=hostpython2,kivy --arch armeabi-v7a --copy-libs'
 # Cwd /home/albert/work/helloworld/.buildozer/android/platform/python-for-android-master
-# Build the application #11
+# Build the application #13
 # Copy application source from /home/albert/work/helloworld
 # Create directory /home/albert/work/helloworld/.buildozer/android/app
 # Copy /home/albert/work/helloworld/main.py
